@@ -1,4 +1,4 @@
 Curso React: Entendendo como a biblioteca funciona
 Continuar na Aula:
-   03.Estilizando Componentes
-      02. Estilizando Componentes
+   04. Lidando com eventos e propriedades
+      02. Lidando com Eventos
