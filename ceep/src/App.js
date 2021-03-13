@@ -19,11 +19,26 @@ class App extends Component {
     }
     this.setState(novoEstado)
   }
+
+  deletarNota(index){
+    // Busca o array de notas
+    let arrayNotas = this.state.notas;
+    // Retira o elemento do Array
+    arrayNotas.splice(index,1);
+    // Seta a mudança de estado para chamar o render
+    this.setState({notas:arrayNotas})
+  }
+
   render(){
     return (
       <section className="conteudo">
         <FormularioCadastro criarNota={this.criarNota.bind(this)}/>
-        <ListaDeNotas notas={this.state.notas}/>
+        <main>
+          
+        </main>
+        <ListaDeNotas 
+          apagarNota={this.deletarNota.bind(this)}
+          notas={this.state.notas}/>
       </section>
     );
   }

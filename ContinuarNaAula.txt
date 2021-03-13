@@ -1,4 +1,4 @@
-Curso React: Entendendo como a biblioteca funciona
+React: Ciclo de vida dos componentes
 Continuar na Aula:
-   04. Lidando com eventos e propriedades
-      02. Lidando com Eventos
+   02. Criando lista de categorias
+      02. Criando lista de categorias
