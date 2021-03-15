@@ -1,4 +1,4 @@
 React: Ciclo de vida dos componentes
 Continuar na Aula:
-   02. Criando lista de categorias
-      02. Criando lista de categorias
+   04. Observable
+      04. O Padrão Observable
