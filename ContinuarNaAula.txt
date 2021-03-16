@@ -1,4 +1,4 @@
 React: Ciclo de vida dos componentes
 Continuar na Aula:
-   04. Observable
-      04. O Padrão Observable
+   05. Ciclo de vida dos objetos
+      03. Adicionando estado local
